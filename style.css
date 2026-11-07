@@ -1,0 +1,16 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    background-color: #00104b;
+}
+
+.title {
+    background-color: #000000;
+    color: white;
+    margin: 0;
+    padding: 0;
+    /* Adding a tiny bit of padding or a transparent border stops margin collapse */
+    padding-top: 0.1px; 
+    text-align: right;
+}
